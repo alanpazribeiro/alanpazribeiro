@@ -15,6 +15,7 @@
 <!--START_SECTION:table-->
 <details>
 <summary>Alguns cursos que já fiz</summary> 
+  
 | Curso | Lugar | Ano |
 | :---: | :---: | :---: |
 | Introduction to Power BI | DataCamp | 2022 |
@@ -23,6 +24,8 @@
 | IBM Data Analytics with R| Coursera | 2023 |
 | Google Data Analytics | Coursera | 2023 |
 | Big Data 3.0 | Data Science Academy | 2022 |
+
+
 </details>
 
 <p align='left'>
