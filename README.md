@@ -1,5 +1,5 @@
 <h1 align="center">Olá, 👋... Me chamo Alan Paz!</h1>
-<h4 align="left">Sou engenheiro eletrônico com experiência em automação e industrial e de software que descobriu riqueza da análise de dados!</h4>
+<h4 align="left">Sou engenheiro eletrônico com experiência em automação industrial e de software que descobriu riqueza da análise de dados!</h4>
 <h5 align="left">Participando do Bootcamp de Análise de Dados da <a href = 'https://tripleten.com/pt-bra/data-analyst/webinar/' taget ='_blank'>Tripleten</a> desenvolvi habilidades e experiência em análise exploratória de dados, análise estatística, ETL e ferramentas de visualizações.</h5>
 
 <h5 align="left">Nos diversos projetos que desenvolvi ao longo do curso, me aprofundei nas principais bibliotecas Python (pandas, numpy, matplotlib, seaborn, plotly, scipy) para análise de dados, além de outras ferramentas para resolver problemas como: 
