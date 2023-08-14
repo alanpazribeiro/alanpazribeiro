@@ -34,7 +34,24 @@
 <p align='left'>
   <b>Alguns dos meus trabalhos e projetos:</b>
 </p>
-<!--
+
+# Portfólio de projetos de Análise de Dados
+
+Aqui estão alguns dos meus projetos. Neles eu executo ações de pré-processamento (limpeza e conversão) e visualização de dados, assim como análises estatísticas, de coortes e de métricas de negócios (KPIs).
+
+| Projeto               | Descrição                                                                                   | Recursos utilizados            |
+|:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
+|[Análise de Risco Concessão de Crédito](https://github.com/alanpazribeiro/Analise-Risco-Credito/blob/main/An%C3%A1lise%20de%20Risco%20de%20Empr%C3%A9stimo.ipynb)|Criar uma relatório com análise para a divisão de empréstimos de um banco, verificando se o estado civil de um cliente e o número de filhos têm impacto sobre a inadimplência de um empréstimo. O banco já tem alguns dados sobre a capacidade de crédito dos clientes.|*pandas, matplotlib, seaborn,*|
+|[Fatores que influenciam no valor de um veículo](https://github.com/alanpazribeiro/Fatores-influenciam-no-valor-do-veiculo./blob/main/Fatores%20que%20influenciam%20os%20pre%C3%A7os%20dos%20ve%C3%ADculos.ipynb "Fatores que influenciam no valor de um veículo")|Análise para o departamento de marketing sobre quais fatores e características influenciam na comercialização de um veículo, aplicando EDA e ferramentas de correlação|*pandas, numpy, matplotlib, scipy*|
+|[Padrões que determinam o sucesso de um jogo de Videogame](https://github.com/diego-analytics/projetos_dados/blob/main/arquivos_projetos/Projeto_console_analysis.ipynb](https://github.com/alanpazribeiro/analise-sucesso-videograme/blob/main/Identifica%C3%A7%C3%A3o%20de%20Padr%C3%B5es%20no%20Sucesso%20de%20um%20Jogo.ipynb)]() "As características que determinam o sucesso dos videogames")|Estudo sobre as preferências por diferentes consoles de videogame, através de regiões e gêneros de jogos, através de análise exploratória e testes de hipóteses|*pandas, numpy, matplotlib, scipy*|
+|[Análise da Rentabilidade dos planos de Celular](https://github.com/alanpazribeiro/Plano-de-Celular-mais-Rentavel/blob/main/Comport_Usuario_Telefonia.ipynb "Análise da Rentabilidade dos plaos de Celular")|Analisando a lucratividade dos planos de celular através do comportamento dos clientes afim de ajustar o investimento do marketing|*pandas, numpy, matplotlib, seaborn, sklearn, scipy*|
+|[Literatura no Brasil: analisando dados do Skoob](https://github.com/diego-analytics/projetos_dados/blob/main/arquivos_projetos/skoob_analise.ipynb "Literatura no Brasil: analisando dados do Skoob")|Utilizando dados do site Skoob, observamos os principais autores e livros, as editoras mais populares, as quantidades de páginas mais comuns e outras características dos livros da plataforma|*pandas, matplotlib*|
+|[Análise de Gastos com Cartão de Crédito no Brasil](https://github.com/diego-analytics/projetos_dados/blob/main/arquivos_projetos/Brazilian%20credit%20card%20spending%20analysis.ipynb "Análise de Gastos com Cartão de Crédito no Brasil")|Análise de gastos com cartão de crédito de clientes de um banco mediano brasileiro|*pandas, matplotlib*|
+
+### [Voltar para a página inicial](https://github.com/diego-analytics)
+
+
+
 * 📊 <a href='https://github.com/diego-analytics/projetos_dados/blob/main/README.md' target='_blank'>Projetos do Bootcamp da Tripleten</a>
 * 💫 [Veja aqui um banco de dados relacional](https://github.com/diego-analytics/universe-sql) com corpos celestes semi-ficcionais que criei para uma certificação do freeCodeCamp
 * 📈 [Aqui você pode conferir algumas das DataViz que criei no Tableau](https://public.tableau.com/app/profile/diego.laurentino.de.carvalho)
