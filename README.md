@@ -2,7 +2,7 @@
 <h4 align="left">Sou engenheiro eletrônico com experiência em automação industrial e de software que descobriu riqueza da análise de dados!</h4>
 <h5 align="left">Participando do Bootcamp de Análise de Dados da <a href = 'https://tripleten.com/pt-bra/data-analyst/webinar/' taget ='_blank'>Tripleten</a> desenvolvi habilidades e experiência em análise exploratória de dados, análise estatística, ETL e ferramentas de visualizações.</h5>
 
-<h5 align="left">Nos diversos projetos que desenvolvi ao longo do curso, me aprofundei nas principais bibliotecas Python (pandas, numpy, matplotlib, seaborn, plotly, scipy) para análise de dados, além de outras ferramentas para resolver problemas como: 
+<h5 align="left">Nos diversos projetos que desenvolvi ao longo do curso, me aprofundei nas principais bibliotecas Python (pandas, numpy, matplotlib, seaborn, plotly, scipy) para análise de dados, bem como de inúmeras horas limpando, transformando e pré-processando conjuntos de dados, além de outras ferramentas para resolver problemas como: 
 <h5 align='left'>
 <p align='left'> 
 </p>
@@ -12,9 +12,10 @@
 *  resolução de problemas de negócios em diversos segmentos incluindo segmentação de clientes
 *  otimizando investimentos na área de marketing de acordo com o retorno
 *  análise de KPI's
+*  análise de Jornada do Cliente
+*  construção de Funis de Eventos
+*  análise de padrões de comportamento dos usuários
 
-<h5 align='left'> além de inúmeras horas limpando, transformando e pré-prcessando conjuntos de dados.
-</h5>
 
 <!--START_SECTION:table-->
 <details>
