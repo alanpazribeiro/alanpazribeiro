@@ -32,10 +32,6 @@
 
 </details>
 
-<p align='left'>
-  <b>Alguns dos meus trabalhos e projetos:</b>
-</p>
-
 # Portfólio de projetos de Análise de Dados
 
 Aqui estão alguns dos meus projetos. Neles eu executo ações de pré-processamento (limpeza e conversão) e visualização de dados, assim como análises estatísticas, de coortes e de métricas de negócios (KPIs).
