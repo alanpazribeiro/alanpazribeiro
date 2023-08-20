@@ -7,13 +7,13 @@
 <p align='left'> 
 </p>
   
-*  como identificar padrões para oferecer o melhor produto ao cliente
+*  identificar padrões para oferecer o melhor produto ao cliente
 *  identificar e analisar as preferências dos usuários para um novo aplicativo
 *  resolução de problemas de negócios em diversos segmentos incluindo segmentação de clientes
 *  otimizando investimentos na área de marketing de acordo com o retorno
 *  análise de KPI's
 *  análise de Jornada do Cliente
-*  construção de Funis de Eventos
+*  construção de Funis de Eventos e Cohorts
 *  análise de padrões de comportamento dos usuários
 
 
