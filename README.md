@@ -39,6 +39,8 @@ Aqui estão alguns dos meus projetos. Neles eu executo ações de pré-processam
 
 | Projeto               | Descrição                                                                                   | Recursos utilizados            |
 |:--------------------- |:------------------------------------------------------------------------------------------- |:------------------------------ |
+|[Web Scraping com Python](https://github.com/alanpazribeiro/Web-scraping-com-Python.git)|Aplicando a técnica de extração de dados da web em um site de e-commerce com a ferramenta BeautifulSoul e Python
+.|*pandas, requests, BeautifulSoup*|
 |[Projeto Final - Teste A/B, Análise e Consultas em SQL e Segmentação de usuários com Machine Learning, Cohort e RFM](https://github.com/alanpazribeiro/Segmentacao_clientes_RFM_Kmeas.git)|Projeto Final - Análise de um Teste A/B, Análise e consultas em SQL e Segmentação de clientes via Cohort, RFM e K-means afim de obter insights de negócios.|*pandas, numpy, matplotlib, scipy, seaborn, scikit-learn, SQL*|
 |[Automatizando Análises de tendências com Tableau](https://github.com/alanpazribeiro/Analise_tendencias_tableau.git)|Projeto 11 - Automatizando análise de tedências de vídeos do Youtube cm Tableau para o departamento de marketing.|*pandas, tableau,*|
 |[Estratégia para retenção de clientes aplicando Machine Learning](https://github.com/alanpazribeiro/Estretegia_retencao_clientes_Machine_Learning.git)|Projeto 10 - Desenvolvendo estratégia para retenção de clientes em uma academia aplicando Machine Learning .|*pandas, numpy, matplotlib, scipy, seaborn, scikit-learn*|
